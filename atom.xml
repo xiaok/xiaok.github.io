@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xlaok.com/"/>
-  <updated>2016-10-23T14:51:55.432Z</updated>
+  <updated>2016-10-27T02:03:24.000Z</updated>
   <id>http://xlaok.com/</id>
   
   <author>
@@ -16,43 +16,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="http://xlaok.com/test/"/>
-    <id>http://xlaok.com/test/</id>
-    <published>2016-10-23T13:52:51.000Z</published>
-    <updated>2016-10-23T14:51:55.432Z</updated>
+    <title>我的减肥计划</title>
+    <link href="http://xlaok.com/%E6%88%91%E7%9A%84%E5%87%8F%E8%82%A5%E8%AE%A1%E5%88%92/"/>
+    <id>http://xlaok.com/我的减肥计划/</id>
+    <published>2016-10-27T01:17:22.000Z</published>
+    <updated>2016-10-27T02:03:24.000Z</updated>
     
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World1111</title>
-    <link href="http://xlaok.com/hello-world/"/>
-    <id>http://xlaok.com/hello-world/</id>
-    <published>2016-10-23T13:48:00.000Z</published>
-    <updated>2016-10-23T14:52:04.993Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<p>今天是减脂的第 10 天，体重没有任何变化。说实话心里是有点气馁的，虽然我知道正常的减重速度应当是每个月不超过4斤（已经慢的让人绝望），但是真实的看到自己的体重没有变化，还是很怀疑自己。</p>
+<p>看到知乎上说需要给自己定一个减肥目标和计划，那就定一个吧。</p>
+<p>这是一个长达 136 天的计划，期间会不断的调整，改进。</p>
+<h2 id="全局目标"><a href="#全局目标" class="headerlink" title="全局目标"></a>全局目标</h2><p>我当前的体重是 80 kg，我的最终目标是减脂到 60kg， 也就是整整40斤。体态上，我希望腹肌能够明显显现，二三头肌等主要肌肉能够明显显现，能完成引体向上等较难完成的动作，下腰能够轻松摸到脚趾，明显提高体能和力量。学会正确的游泳姿势，跑完一个半程马拉松。同时在心理上爱上运动。</p>
+<h2 id="第一个里程碑的目标"><a href="#第一个里程碑的目标" class="headerlink" title="第一个里程碑的目标"></a>第一个里程碑的目标</h2><p>瘦 16 斤，到 72 kg，体态发生明显改变。</p>
+<h2 id="训练目标"><a href="#训练目标" class="headerlink" title="训练目标"></a>训练目标</h2><p>有氧无氧并行，每天在健身房， 10分钟热身，30分钟有氧，10无氧，10分钟静态拉伸，在家，10~20分钟无氧，每天训练70~80分钟。周末停止有氧训练，周六30分钟无氧，周末休息。<br>无氧方面，主要是慢跑+快走+动感单车+椭圆机，逐步提升速度和质量。<br>有氧方面，主要训练腰腹核心，以及二三头，背部肌肉。<br>暂定为跟 keep app《健身房入门，男生版》训练，有感觉之后再订组数。</p>
+<h2 id="食物"><a href="#食物" class="headerlink" title="食物"></a>食物</h2><p>严格按照基础代谢吃，尽可能吃的健康，尽可能的进行称重和卡路里计算，瘦10斤（75kg）之前不外食，之后最多每周一次 cheating day（最少每两周一次），什么贵吃什么。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;今天是减脂的第 10 天，体重没有任何变化。说实话心里是有点气馁的，虽然我知道正常的减重速度应当是每个月不超过4斤（已经慢的让人绝望），但是真实的看到自己的体重没有变化，还是很怀疑自己。&lt;/p&gt;
+&lt;p&gt;看到知乎上说需要给自己定一个减肥目标和计划，那就定一个吧。&lt;/p&gt;
+&lt;p
     
     </summary>
     
+    
+      <category term="减肥 生活" scheme="http://xlaok.com/tags/%E5%87%8F%E8%82%A5-%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
